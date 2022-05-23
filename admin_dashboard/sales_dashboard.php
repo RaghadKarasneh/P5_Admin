@@ -111,7 +111,7 @@ include "../connection.php";
     </tr>
 
   </thead>
-  <tbody class="table-warning">
+  <tbody class="table-light">
     <?php
     
     $stmt = $conn->query("SELECT * FROM sales");

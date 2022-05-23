@@ -36,7 +36,7 @@ include "../connection.php";
                   <a href="category_dashboard.php" class="list-group-item list-group-item-action py-2 ripple"><i
                       class="fas fa-lock fa-fw me-3 "></i><span>Catagory dashboard</span></a>
                       </a>
-                      <a href="category_dashboard.php" class="list-group-item list-group-item-action py-2 ripple"><i class="fa-solid fa-coins fa-fw me-3"></i>
+                      <a href="sales_dashboard.php" class="list-group-item list-group-item-action py-2 ripple"><i class="fa-solid fa-coins fa-fw me-3"></i>
                 </i><span>Sales dashboard</span></a>
                   
                       <a href="admin_dashboard.php" class="list-group-item list-group-item-action py-2 ripple"><i class="fa-solid fa-screwdriver fa-fw me-3"></i><span> Admin dashboard</span></a>
