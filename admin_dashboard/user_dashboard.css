@@ -66,6 +66,8 @@ h2{
 /* a:hover {text-decoration:none; color:rgb(45, 35, 2);} */
 .butt{
     background-color: #570A57;
+    color: white;
+    padding: 10px 50px;
     
    }
    .butt a{
@@ -73,7 +75,7 @@ h2{
    }
    .butt:hover{
     background-color: #570A57;
-    
+    color:white;
    }
    .butt a:hover{
     color:white;

@@ -94,7 +94,7 @@ include "../connection.php";
   <br>
 <!--         nav --> 
 <div class="dbcontainer" >
-<button type="button" class="btn btn-sunny  text-uppercase"><a class="a_button_create" href="admin_create.php">create new admin</a></button>
+<button type="button" class="btn butt btn-sunny  text-uppercase"><a class="a_button_create" href="admin_create.php">create new admin</a></button>
 
 
 <table class="table container table-bordered table-dark">

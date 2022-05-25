@@ -18,7 +18,7 @@ if(isset($_POST['submit']))
    echo'<script>
    setTimeout(() => {
        window.location = "admin_dashboard.php";
-     }, "2000")
+     }, "1000")
    
    </script>';
 
@@ -111,6 +111,6 @@ if(isset($_POST['submit']))
       
     </form>
 
-    <a href="admin_dashboard.php">back to dashboard</a>
+    <!-- <a href="admin_dashboard.php">back to dashboard</a> -->
   </body>
 </html>
