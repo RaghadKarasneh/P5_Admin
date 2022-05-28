@@ -1,6 +1,6 @@
 <?php
 include "../connection.php";
-$get_data = "SELECT * FROM admin WHERE id= $_GET[id]";
+$get_data = "SELECT * FROM user_admin WHERE id= $_GET[id]";
 $stmt= $conn->query($get_data);
 $admin_data = $stmt->fetch_assoc();
 
